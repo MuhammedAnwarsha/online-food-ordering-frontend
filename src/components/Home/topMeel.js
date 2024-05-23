@@ -1,0 +1,42 @@
+export const topMeels=[
+    {
+        image:"https://cdn.pixabay.com/photo/2024/04/23/09/32/ai-generated-8714517_1280.jpg",
+        title:"Pizza"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2023/10/08/13/03/ai-generated-8302143_1280.jpg",
+        title:"Burger"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2024/04/06/04/15/ai-generated-8678599_1280.jpg",
+        title:"Sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2024/02/24/23/22/ai-generated-8594918_1280.jpg",
+        title:"Chiken"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2024/04/20/20/53/noodles-8709379_1280.png",
+        title:"Noodles"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2023/08/28/11/35/ai-generated-8219058_1280.jpg",
+        title:"Thali"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2024/01/18/17/20/ai-generated-8517259_1280.jpg",
+        title:"Biriyani"
+    },
+    {
+        image:"https://media.istockphoto.com/id/481536060/photo/fried-chinese-traditional-spring-rolls-on-wooden-background.jpg?s=1024x1024&w=is&k=20&c=O6BOseUKBbBwvz_fpU5MIbw66eDqPHv7jNM5ec5E6us=",
+        title:"Rolls"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2024/04/23/09/33/ai-generated-8714539_1280.jpg",
+        title:"Soup"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2024/02/28/04/13/ai-generated-8601143_1280.jpg",
+        title:"North Indian Food"
+    },
+]
